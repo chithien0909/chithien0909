@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/chithien0909"><img src="https://api.daily.dev/devcards/2df0dd24d9b34066ae60ec17b7de101f.png?r=3xh" width="400" alt="Chi Thien Le Van's Dev Card"/></a>
